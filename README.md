@@ -1,87 +1,110 @@
 
 ---
 
-```markdown
-# 📊 Screen Time vs Mental Wellness Dashboard
+````markdown
+# 📊 Screen Time vs Mental Wellness Dashboard  
 
-An interactive Power BI dashboard exploring the relationship between **screen time usage** and **mental wellness metrics**. It visualizes how work and leisure screen hours relate to stress, sleep, productivity, and general well-being.
-
----
-
-## 📋 Features
-
-- Compare **total screen time**, **work screen time**, and **leisure screen time**
-- Overlay mental wellness indicators:
-  - Stress level
-  - Sleep quality / hours
-  - Productivity
-  - Exercise & social activity
-- Dynamic filters and visuals for deeper exploration
-- Clean design for clear storytelling
+An interactive Power BI dashboard analyzing the relationship between **screen time usage** and **mental wellness metrics**. This project transforms raw data into actionable insights on how work and leisure screen habits impact stress, sleep, productivity, and overall well-being.
 
 ---
 
-## 🗂 Data & Methodology
+## 📊 Overview  
 
-- Data combines screen usage and mental wellness survey metrics
-- Preprocessed (cleaned, aggregated) in Excel / Python before importing into Power BI
-- Measures and calculated columns highlight correlations and trends
-
----
-
-## 🛠 Tools Used
-
-- **Power BI Desktop** — interactive dashboard creation
-- **Excel / Python** — data cleaning and preparation
-- **GitHub** — version control & sharing
+This repository showcases a focused Power BI project designed to present mental wellness and screen usage data in a compelling, user-friendly format.  
+The dashboard highlights key patterns, trends, and correlations, making complex datasets accessible and insightful for individuals, researchers, and organizations interested in digital well-being.
 
 ---
 
-## 🚀 How to Use
+## 🗂️ Dashboard  
 
-1. Clone or download this repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. If required, refresh the data connections.
-4. Interact with filters, slicers, and visuals to explore insights.
+| Dashboard Name                     | Description |
+|------------------------------------|-------------|
+| **Screen Time vs Mental Wellness** | Visualizes and analyzes total, work, and leisure screen hours alongside mental wellness indicators such as stress levels, sleep quality, productivity, and exercise habits. |
 
----
-
-## 🔑 Key Insights (Example)
-
-- Higher leisure screen time may correlate with **lower sleep quality** and **higher stress**  
-- Work screen hours show a non-linear relationship with productivity  
-- Balanced screen usage plus regular exercise links to higher mental wellness scores  
-
-*(Replace with your actual findings if you have them.)*
+> 📁 The dashboard is provided as a `.pbix` file, compatible with Microsoft Power BI Desktop.
 
 ---
 
-## 📈 Future Improvements
+## 🚀 Getting Started  
 
-- Add predictive models to forecast mental wellness based on screen time
-- Expand dataset for more robust trends
-- Create a web/mobile version for public access
+### Prerequisites  
+
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free)  
+- Basic familiarity with data visualization concepts  
+
+### Instructions  
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/EngrInshalAhmed/Dashboard_ScreenTime-vs-MentalWellness.git
+   cd Dashboard_ScreenTime-vs-MentalWellness
+````
+
+2. **Open the Dashboard:**
+
+   * Launch Power BI Desktop
+   * Open the `.pbix` file from the repository
+
+3. **Explore and Customize:**
+
+   * Use visualizations, filters, and slicers to explore insights
+   * Modify visuals or connect to updated data sources if needed
 
 ---
 
-## 👤 Author
+## 💼 Use Cases
 
-- **Engr. Inshal Ahmed**  
-- [GitHub Profile](https://github.com/EngrInshalAhmed)
-
----
-
-## 📝 License
-
-Choose a license (e.g. MIT, Apache 2.0) and add it here.
+* Understand the impact of digital habits on mental wellness
+* Reference for Power BI learners and data visualization enthusiasts
+* Dashboard prototyping for wellness programs or digital policy decisions
+* Add to your portfolio as an example of data-driven storytelling
 
 ---
 
-### 🔹 Repository Tagline
+## 🤝 Contributing
 
-> *Interactive dashboard exploring the link between screen time usage and mental wellness metrics.*
+Contributions are welcome! Here's how you can help:
+
+* Submit improvements or bug fixes
+* Add new features or calculated metrics
+* Suggest enhancements to visuals or data structure
+
+### Steps to Contribute
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/YourFeature`
+3. Commit your changes: `git commit -m "Add new feature"`
+4. Push to the branch: `git push origin feature/YourFeature`
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or collaboration opportunities:
+
+* **GitHub:** [@EngrInshalAhmed](https://github.com/EngrInshalAhmed)
+* **Email:** [inshalahmed17@gmail.com](mailto:inshalahmed17@gmail.com)
+
+---
+
+## 🙌 Acknowledgments
+
+* Microsoft Power BI Community
+* Contributors and reviewers of open datasets
+* Inspiration from global digital well-being and BI practices
+
+---
+
 ```
 
 ---
-
-Would you like me to also include a **screenshot preview** section (with an image placeholder) so visitors immediately see your dashboard on the repo page?
+ like me to also
+```
