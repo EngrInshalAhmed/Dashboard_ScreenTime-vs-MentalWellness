@@ -1,7 +1,7 @@
 
+
 ---
 
-````markdown
 # 📊 Screen Time vs Mental Wellness Dashboard  
 
 An interactive Power BI dashboard analyzing the relationship between **screen time usage** and **mental wellness metrics**. This project transforms raw data into actionable insights on how work and leisure screen habits impact stress, sleep, productivity, and overall well-being.
@@ -38,7 +38,7 @@ The dashboard highlights key patterns, trends, and correlations, making complex 
    ```bash
    git clone https://github.com/EngrInshalAhmed/Dashboard_ScreenTime-vs-MentalWellness.git
    cd Dashboard_ScreenTime-vs-MentalWellness
-````
+
 
 2. **Open the Dashboard:**
 
@@ -91,7 +91,7 @@ See the [LICENSE](LICENSE) file for more details.
 For questions, suggestions, or collaboration opportunities:
 
 * **GitHub:** [@EngrInshalAhmed](https://github.com/EngrInshalAhmed)
-* **Email:** [inshalahmed17@gmail.com](mailto:inshalahmed17@gmail.com)
+* **Email:** [inshalahmed1709@gmail.com](mailto:inshalahmed17@gmail.com)
 
 ---
 
@@ -103,8 +103,7 @@ For questions, suggestions, or collaboration opportunities:
 
 ---
 
-```
 
----
- like me to also
-```
+
+
+
